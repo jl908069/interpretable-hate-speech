@@ -1,0 +1,13 @@
+joblib==1.0.1
+matplotlib==3.3.4
+nltk==3.5
+numpy==1.20.0
+pandas==1.2.1
+profanity-check=1.0.3
+regex==2020.11.13
+scikit-learn==0.20.4
+scipy==1.6.0
+shap==0.39.0
+textblob==0.15.3
+vaderSentiment==3.3.2
+
