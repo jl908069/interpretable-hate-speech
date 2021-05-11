@@ -31,8 +31,8 @@ subjectivity, profanity, and user feature
 to the feature function. Then it trains a logistic
 regression model to evaluate the results on
 the following different feature combinations.
-* base_tfidf + sentiment feature(`vader` package)
-* base_tfidf + subjectivity feature(`Textblob` package)
+* base_tfidf + sentiment feature(`vaderSentiment` package)
+* base_tfidf + subjectivity feature(`textblob` package)
 * base_tfidf + profanity feature(`profanity-check` package)
 * base_tfidf + @user feature (percentage of @USER in a tweet)
 
