@@ -27,7 +27,7 @@ Example usage:
 `python logreg.py --train_file olid-training-v1.tsv`
 
 ## feature_combination.py
-Creates a FeaatureVectorizer class to add sentiment,
+Creates a FeatureVectorizer class to add sentiment,
 subjectivity, profanity, and user feature 
 to the feature function. Then it trains a logistic
 regression model to evaluate the results on
