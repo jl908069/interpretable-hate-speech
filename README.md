@@ -40,3 +40,6 @@ the following different feature combinations.
 Example usage:
 
 `python feature_combination.py --train_file olid-training-v1.tsv`
+
+## Results and Discussion
+See `Final_Report.pdf`
