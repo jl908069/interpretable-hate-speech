@@ -1,7 +1,7 @@
-Interpretable Hate Speech
+Towards Interpretable Detection of Hate Speech in Twitter
 --------------------------------------------
 This project trains logistic regression models for hate speech detection 
-using SemEval 2019 task 6 dataset OLID. Task A is to determine whether or not
+using SemEval 2019 task 6 dataset OLID (Offensive Language Identification Dataset). Task A is to determine whether or not
 the tweet is offensive. Task B is to determine whether the offensive tweet is targeted.
 Data and links to task information and paper are available 
 [here](https://sites.google.com/site/offensevalsharedtask/offenseval2019).
